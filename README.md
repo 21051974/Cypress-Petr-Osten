@@ -1,2 +1,2 @@
 # Cypress-Petr-Osten
-Fragmenty testů z aplikace Trello
+Fragmenty testů z aplikace "Trello"
